@@ -1,0 +1,11 @@
+# Obsidian 本地 UI 状态（非配置，跨设备无意义，且频繁变动）
+.obsidian/workspace.json
+
+# 回收站
+.trash/
+.obsidian/trash/
+
+# 系统/临时文件
+.DS_Store
+Thumbs.db
+*~

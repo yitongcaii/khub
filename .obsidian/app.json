@@ -1,0 +1,14 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Templates",
+  "attachmentFolderPath": "Templates/attachments",
+  "useMarkdownLinks": false,
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "showInlineTitle": true,
+  "foldHeading": true,
+  "spellcheck": false,
+  "promptDelete": true,
+  "followChangelog": true
+}
