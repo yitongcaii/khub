@@ -7,12 +7,285 @@ quality: 综合 4-5 分
 relation: ②上下级 / ③高管间
 ---
 
-# Offsite 团建务虚 · 知识卡汇总（136 卡 · 上下级/高管间）
+# Offsite 团建务虚 · 知识卡汇总（304 卡 · 上下级/高管间）
 
-> 自动化采集于 2026-08-07 ｜ 多轮 enrich ｜ 2026-08-10 语义去重 -1 ｜ 2026-08-10 七轮补采 +10｜ 2026-08-10 八轮补采 +6 ｜ 2026-08-12 九轮补采 +5 ｜ 2026-08-12 十轮补采 +9 ｜ 2026-08-13 十一轮补采 +6 ｜ 2026-08-14 十三轮补采 +10 ｜ 2026-08-16 十五轮补采 +6 ｜ 2026-08-17 十六轮补采 +6 ｜ 2026-08-17 十七轮补采 +4 ｜ 2026-08-18 十八轮补采 +3 ｜ 2026-08-19 十九轮补采 +6。卡片墙 HTML：`knowledge-collection/offsite/offsite.html`
+> 自动化采集于 2026-08-07 ｜ 多轮 enrich ｜ 2026-08-10 语义去重 -1 ｜ 2026-08-10 七轮补采 +10｜ 2026-08-10 八轮补采 +6 ｜ 2026-08-12 九轮补采 +5 ｜ 2026-08-12 十轮补采 +9 ｜ 2026-08-13 十一轮补采 +6 ｜ 2026-08-14 十三轮补采 +10 ｜ 2026-08-16 十五轮补采 +6 ｜ 2026-08-17 十六轮补采 +6 ｜ 2026-08-17 十七轮补采 +4 ｜ 2026-08-18 十八轮补采 +3 ｜ 2026-08-19 十九轮补采 +6 ｜ 2026-08-22 二十二轮补采 +6｜ 2026-08-23 二十四轮补采 +5 ｜ 2026-08-25 二十七轮补采 +17（早前部分轮次预置 7 卡 + 本轮执行 10 卡）。｜ 2026-08-27 二十八轮补采 +14（高管 retreat 2026趋势/制作框架/战略务虚/董事会治理/团队建设 + 经理层两日对齐/活动菜单/个人发展/远程灵感）。｜ 2026-08-28 二十九轮补采 +5（中国法组织者责任/场地议价/场地选型矩阵/工具栈/新CEO愿景共建）｜ 2026-08-28 三十轮补采 +5（GitLab E-Group 季度offsite/数据保密治理/ROI度量/中层协作练习/虚拟团队offsite）｜ 2026-09-02 三十一轮补采 +8（高管冲突治理/决策机制operating model/多新成员团队/心理安全前置+经理难对话/30-60-90落地/团队章程/混合远程平权） ｜ 2026-09-02 三十二轮补采 +5（神经多元友好型offsite/团队对齐工作坊决策非讨论/绿色可持续offsite落地/2026 ELT务虚室5现场信号/专业务虚执行vs内部DIY）
+> 2026-09-03 三十三轮补采 +5（领导力架构跃迁/9项引导活动库/CEO Retreat 战略焕新/五步引导法/新 leader 上任对齐） ｜ 2026-09-04 三十四轮补采 +7（中文务虚会制度化四步法/务虚不越权/不出纪要保密设计 + 酒精行为准则/供酒政策模板/团建受伤五因子/异地保险四层）。｜ 2026-09-05 三十五轮补采 +10（裸心会深度研讨/务虚会成果闭环销号/务虚会务实三原则/务虚会精神一线穿透/C-suite结论级联 + 供应商合同审查/force majeure谈判/国际签证合规/保险按活动类型矩阵/组织者责任险双轨）。 ｜ 2026-09-06 三十六轮补采 +10（战略务虚会六维规划+AI现金流模块 / Hoshin Kanri X矩阵+catchball / 战略会议全日议程模板 / 并购后文化融合workshop / 战略offsite定位与避坑 + 团建预算四模板工具集 / Google Sheets预算10%缓冲 / 部门务虚会facilitation六步 / 团建安全预案四原则 / 团建预算五维模型三招破局）。卡片墙 HTML：`knowledge-collection/offsite/offsite.html`
 > 线上预览：https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/offsite/offsite.html
-> 已按受众关系分层剔除平级/朋友向（①）；仅 ②上下级 / ③高管间。一手 4（KM 内部腾讯团建 + NIDE 供应商峰会）+ 二手 108。
+> 已按受众关系分层剔除平级/朋友向（①）；仅 ②上下级 / ③高管间。一手 12（KM 内部腾讯团建 + NIDE 供应商峰会 + 政府务虚会制度/权力边界/保密设计 + 公司行为准则酒精条款）+ 二手 292。｜ 2026-09-07 三十七轮补采 +10（领导力offsite议程四型/高管offsite议程模板/战略offsite5步/高管offsite季度节奏/有效高管务虚会 + 经理务虚会12创意/领导者务虚会12创意/新任经理梯队议程/高效团队offsite工作坊5要素/新经理工作坊）。 ｜ 2026-09-08 三十八轮补采 +10（高管offsite规划2026三目的/会前facilitator访谈占90%价值/预算基准€3.5-7.5k/引导师甄选 + 董事会retreat规划/CEO retreat2.0五步/future-back诊断/ROI向董事会论证/商业沙盘推演 + 领导力发展2日offsite案例/年度管理retreat案例/活动选型按绩效差距/团建ROI度量/企业retreat ROI指标eNPS）。｜ 2026-09-09 四十轮补采 +7（YPO/EO同侪圈静修/混合高管offsite三体验/外引内带hybrid序列·3③ ｜ 经理offsite活动库/新leader融入静修/传统团建批判/混合团队retreat形式·4②） ｜ 2026-09-10 四十一轮补采 +7（战略务虚议程契约式/Board务虚治理框架/Series B 48h级联/沉浸式务虚ROI案例·4③ ｜ 远程retreat自愿包容/2026活动数据菜单/活动采购比价表·3②）
 
+
+
+
+
+
+
+## 轮次 20260909·四十轮（+7）
+
+| 卡 | 适用关系 | 一手/二手 |
+|---|---|---|
+| YPO/EO 论坛式静修：把「同侪圈」当高管唯一的安全屋（offsite.html） | 高管间 | 二手 |
+| 混合高管 offsite：把「一个房间+视频」拆成三个被分别设计的体验（offsite.html） | 高管间 | 二手 |
+| 高管 offsite：高 stakes 用外部引导师，日常强化靠内部带人（hybrid 序列）（offsite.html） | 高管间 | 二手 |
+| 经理层 offsite 活动库：10 类带人数/价目，照单点菜（offsite.html） | 上下级 | 二手 |
+| 新 leader 融入静修：用 2-3 天补「传统 onboarding 补不了的信任」（offsite.html） | 上下级 | 二手 |
+| 传统团建为什么「尴尬又无效」：70% 员工觉得没用，改走「目的驱动」（offsite.html） | 上下级 | 二手 |
+| 混合公司团队 retreat：2-3 天、远端平等三招、异步替同步（offsite.html） | 上下级 | 二手 |
+
+> 本轮增量页：https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/offsite/runs/offsite-2026-09-09-r40.html
+> 累计卡片墙：https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/offsite/offsite.html
+
+## 轮次 20260910·四十一轮（+7）
+
+| 卡 | 适用关系 | 一手/二手 |
+|---|---|---|
+| 战略务虚议程「输出契约式」设计（60/30/10 能量分配 + 6 周执行节奏）（offsite.html） | 高管间 | 二手 |
+| Series B 2 天战略务虚·逐级级联脚本（3 bets 上限 + DRI + 48h cascade）（offsite.html） | 高管间 | 二手 |
+| 沉浸式务虚商业论证·案例集（ROI 4x / 留任 -18% / 跨部协作 +22%）（offsite.html） | 高管间 | 二手 |
+| 董事会务虚治理框架（Why now / 边界 / ROI / 会后落地四段）（offsite.html） | 高管间 | 二手 |
+| 远程团队公司 Retreat 10 活动 + 自愿出席 + 混合包容（offsite.html） | 上下级 | 二手 |
+| 2026 团队 Offsite 15 活动 + 频率/预算/社交占比数据（offsite.html） | 上下级 | 二手 |
+| 远程团队 Offsite 活动采购目录（含单价/人数/地点三栏表）（offsite.html） | 上下级 | 二手 |
+
+> 本轮增量页：https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/offsite/runs/offsite-2026-09-10-r41.html
+> 累计卡片墙：https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/offsite/offsite.html
+
+## 轮次 20260908·三十九轮（+8）
+
+| 卡 | 适用关系 | 一手/二手 |
+|---|---|---|
+| 董事会战略务虚会（Board Strategy Session）玩法：限 2-3 产出 + 同意议程清报告 + 中立引导 + 会前问卷（offsite.html） | 高管间 | 二手 |
+| 高管兵棋推演（War Gaming）：危机/动荡期战略压测·高管饰演自己+对手+市场·2天覆盖10年（offsite.html） | 高管间 | 二手 |
+| 动态竞争模拟（Dynamic Competitive Simulation）：高管饰演本公司+竞争对手+市场·控制组模拟行业·决策所有权（offsite.html） | 高管间 | 二手 |
+| 高管静修反奢华陷阱（Luxury Resorts Backfire）·预作业强制+90天跟进复盘+ROI指标前置（offsite.html） | 高管间 | 二手 |
+| 公益型团建（Purpose-Driven）：搭爱心包/净滩种树/志愿者日/共创墙/CSR密室·解决真问题+对齐ESG（offsite.html） | 上下级 | 二手 |
+| 有意义型团建体验（CSR Builds）：组装太阳能灯/义肢手/净水器/自行车捐赠·动手做+真实社会影响（offsite.html） | 上下级 | 二手 |
+| 战略聚会设计（Effect Agenda）：先定「期望效果」再搭议程·I-We-All 旅程·收尾复盘落地（offsite.html） | 上下级 | 二手 |
+| 经理层 Offsite 实操节奏（90分钟封顶+每天2h留白+每节 owner+会前沟通节奏+两级活动）（offsite.html） | 上下级 | 二手 |
+
+> 本轮增量页：https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/offsite/runs/offsite-2026-09-08-r39.html
+> 累计卡片墙：https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/offsite/offsite.html
+## 轮次 20260908·三十八轮（+10）
+
+| 卡 | 适用关系 | 一手/二手 |
+|---|---|---|
+| 高管 Offsite 规划 2026（三大目的 / 会前 facilitator 1对1访谈 45-60min / 预算基准 €3.5-7.5k每人 / Day0-2 议程 / 引导师甄选）（offsite.html） | 高管间 | 二手 |
+| 董事会 Retreat 规划（治理体战略务虚 / 会前逐人访谈 / 少汇报多对话 / 关系时间 / 收尾决策承诺 + 1.5日样本议程）（offsite.html） | 高管间 | 二手 |
+| 高管 Retreat 2.0·CEO 视角（组织目的→团队目的→角色问责→利益相关方→学习绩效 五步 / 新CEO百日为窗）（offsite.html） | 高管间 | 二手 |
+| 高管 Retreat ROI 向董事会论证（pre/during/post 三阶段指标 + ROI 公式 + 行动追踪器）（offsite.html） | 高管间 | 二手 |
+| 高管 Offsite 商业沙盘推演（top150 领导者 / 竞争世界 / 决策权衡 / 宏观扫描盲区 / 反思+应用）（offsite.html） | 高管间 | 二手 |
+| 领导力发展 2日 Offsite 案例（14 名直属下级的 HR 领导团队 / 社会情绪智力测评 / 信任建立 / 团队规范）（offsite.html） | 上下级 | 二手 |
+| 年度 2日 Retreat 案例（16 经理 + 4 总监 + 10 骨干 / 外部引导师中立 / 季度节奏 / WIFLE 诚实表达 / 报价 14天→5分钟）（offsite.html） | 上下级 | 二手 |
+| 领导力 Retreat 活动选型（5 大绩效差距映射 / Day1 连接→Day2 绩效→Day3 承诺 排序 / 30-60-90 KPI 度量）（offsite.html） | 上下级 | 二手 |
+| 团建活动 ROI 度量（即时 / 30-90天 / 6-12月 三层 + 网络分析跨部互动 + 留存对照）（offsite.html） | 上下级 | 二手 |
+| 企业 Retreat ROI 指标（eNPS / 部门流失率 / 首要战略目标达成 / ROE vs ROI / 30-90-180天审计）（offsite.html） | 上下级 | 二手 |
+
+> 本轮增量页：https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/offsite/offsite-20260908.html
+> 累计卡片墙：https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/offsite/offsite.html
+
+## 轮次 20260907·三十七轮（+10）
+
+| 卡 | 适用关系 | 一手/二手 |
+|---|---|---|
+| 领导力 Offsite 议程结构·单决策日/2日/3日/半日四型（offsite.html） | 高管间 | 二手 |
+| 高管 Offsite 议程模板·小高管群目标→对齐→连接（offsite.html） | 高管间 | 二手 |
+| 战略 Offsite 5 步·≤8人决策层+会前作业+向上/向下沟通（offsite.html） | 高管间 | 二手 |
+| 高管 Offsite 季度节奏·Q1定方向/Q2评估/Q3校准/Q4复盘（offsite.html） | 高管间 | 二手 |
+| 有效高管务虚会·Bob Frisch 30年经验(目标承诺/会前消化/30-60天closure)（offsite.html） | 高管间 | 二手 |
+| 12 经理务虚会创意·按场景分(从经理到leader/危机模拟/授权/文化)（offsite.html） | 上下级 | 二手 |
+| 12 领导者务虚会创意·户外/创意/厨艺/战略模拟/Wellness 五类（offsite.html） | 上下级 | 二手 |
+| 新任经理梯队务虚会·样本议程(高管欢迎/实务管理/小组破题/问责)（offsite.html） | 上下级 | 二手 |
+| 高效团队 Offsite 工作坊·5要素(诊断定任务/目标架构/体验+复盘/团队协议/转移监测)（offsite.html） | 上下级 | 二手 |
+| 新经理工作坊·沟通如leader/时间优先级/授权不微管/高绩效团队/难谈话（offsite.html） | 上下级 | 二手 |
+
+> 本轮增量页：https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/offsite/offsite-20260907.html
+｜ 2026-09-08 三十九轮补采 +8（董事会战略务虚会·高管兵棋推演危机压测·动态竞争模拟·高管静修反奢华陷阱+90天跟进 4③ ｜ 公益CSR团建·有意义型建构·战略聚会effect agenda·经理层offsite节奏 4②）。> 累计卡片墙：https://yitongcaii.github.io/workbuddy-handoff/knowledge-collection/offsite/offsite.html
+
+## 轮次 20260906·三十六轮（+10）
+
+| 卡 | 适用关系 | 一手/二手 |
+|---|---|---|
+| 战略务虚会六维规划框架（目的/人选/场地/议程/引导/问责 + AI与现金流模块）（offsite.html） | 高管间 | 二手 |
+| 战略解码 Hoshin Kanri（X-Matrix 四臂 + A3 catchball 上下博弈 + 月度复盘，把愿景落到年度重点）（offsite.html） | 高管间 | 二手 |
+| 战略会议全日议程模板（愿景对齐→小组breakout→优先级排序→行动规划，8小时认知节律）（offsite.html） | 高管间 | 二手 |
+| 并购后文化融合 workshop（行为风格解码→共创团队宪章，把「我们vs他们」变「我们」）（offsite.html） | 高管间 | 二手 |
+| 战略 Offsite 定位与避坑（六大触发时机 / 过度塞议程·缺跟进·预算·虚拟脱节 四坑 / 最佳实践）（offsite.html） | 高管间 | 二手 |
+| 企业团建成本预算工具集（4模板：基本信息/成本明细/执行跟踪/复盘，含10%应急备用金）（offsite.html） | 上下级 | 二手 |
+| Offsite 预算 Google Sheets 模板（10%缓冲·人均实时·lean/planned/stretch 三情景）（offsite.html） | 上下级 | 二手 |
+| 会议引导 facilitation 六步 + 技法（round-robin/dot voting/parking lot，经理主持部门务虚会）（offsite.html） | 上下级 | 二手 |
+| 团建活动安全预案结构（领导小组/四原则/应急程序/报告链，政府发布可抄框架）（offsite.html） | 上下级 | 一手 |
+| 团建预算五维成本模型 + 三招破局（资源置换/优先级/动态调整，抓杠杆环节）（offsite.html） | 上下级 | 二手 |
+
+## 轮次 20260905·三十五轮（+10）
+
+| 卡 | 适用关系 | 一手/二手 |
+|---|---|---|
+| 务虚会「裸心会」式深度研讨（抛开职级·聚焦使命愿景·思维自由碰撞）（offsite.html） | 高管间 | 二手 |
+| 务虚会成果「部署-跟踪-反馈-销号」全闭环（目标量化/问题导向/跟踪反馈/纳入月度考核）（offsite.html） | 高管间 | 一手 |
+| 务虚会要开得「务实」（目标导向具体化/问题导向实战化/成果转化常态化）（offsite.html） | 高管间 | 一手 |
+| 务虚会精神一线穿透（数字平台全周期管控+掌中宝宣传手册+任务上墙透明督办）（offsite.html） | 高管间 | 一手 |
+| 高管 offsite 结论层层穿透·C-suite 沟通级联（把决策译成日常执行/多格式重复/自下而上反馈闭环）（offsite.html） | 高管间 | 二手 |
+| Offsite 供应商合同审查清单（服务范围/付款/取消费/免责/force majeure/争议解决）（offsite.html） | 上下级 | 二手 |
+| Force Majeure 不可抗力条款谈判要点（列具体事件/不履约免罚/衰减费豁免/书面通知时限）（offsite.html） | 上下级 | 二手 |
+| 国际 Offsite 签证与出入境合规（商务访客签证/母公司邀请函/医疗险/90天上限/不本地就业）（offsite.html） | 上下级 | 二手 |
+| 团建/Offsite 保险按活动类型配置矩阵（赛事/拓展/骑行/水上/旅行社责任险+雇主责任险）（offsite.html） | 上下级 | 二手 |
+| 团建组织者责任险 vs 参与者个人意外险双轨（旅行社责任险≠个人险/组织者责任保障核对清单）（offsite.html） | 上下级 | 二手 |
+
+## 轮次 20260903·三十三轮（+5）
+
+| 卡 | 适用关系 | 一手/二手 |
+|---|---|---|
+| 从 Series B 到 D 的领导力架构跃迁（建造者→架构师/职能 owner/授权下沉）（offsite.html） | 高管间 | 二手 |
+| 高管 Offsite 引导活动库（9 项·视觉签到/未谈之话/Perspective Swap/成功-破坏地图）（offsite.html） | 高管间 | 二手 |
+| CEO Retreat 战略清晰度与领导力焕新（环境/意图/心身对齐/真实案例 Certn）（offsite.html） | 高管间 | 二手 |
+| 领导力 Offsite 五步引导法（对齐→创选项→选优先→压测→定义行动 owner）（offsite.html） | 高管间 | 二手 |
+| 新团队领导上任 1 日对齐工作坊（新领导↔团队期望互换/不成 storming）（offsite.html） | 上下级 | 二手 |
+
+## 轮次 20260904·三十四轮（+7）
+
+| 卡 | 适用关系 | 一手/二手 |
+|---|---|---|
+| 政府机关「领导班子定期务虚研讨制度」四步法（一主题+一学习+一调研+一研讨）（offsite.html） | 高管间 | 一手 |
+| 务虚会的权力边界：不是决策机构、不替代常委会做决策（会前定 2-3 个议题）（offsite.html） | 高管间 | 一手 |
+| 务虚会保密性设计：不出纪要、不作决策、不宣传报道（研讨成果单线上报）（offsite.html） | 高管间 | 一手 |
+| 公司行为准则里的 offsite 酒精条款：管理者有义务营造「不鼓励过量饮酒」的场（offsite.html） | 上下级 | 一手 |
+| 公司活动供酒政策模板（8 条硬约束：不自助取酒·持牌场所·限时供酒·提前 1h 停供）（offsite.html） | 上下级 | 二手 |
+| 团建受伤谁担责：强制出席 vs 自愿、雇主控制度、免责书、第三方供应商五因子（offsite.html） | 上下级 | 二手 |
+| 海外/异地 offsite 保险清单：雇主责任+公共责任+商旅险+活动险四层，高风险活动清单（offsite.html） | 上下级 | 二手 |
+
+
+## 轮次 20260902·三十二轮（+7）
+
+| 卡 | 适用关系 | 一手/二手 |
+|---|---|---|
+| 神经多元友好型 Offsite（包容性设计）（offsite.html） | 上下级 | 二手 |
+| 团队对齐工作坊（决策非讨论/3-5 rocks/单一owner）（offsite.html） | 上下级 | 二手 |
+| 绿色/可持续 Offsite 落地（eco认证/低废弃/本地采购/碳抵消）（offsite.html） | 上下级 | 二手 |
+| 2026 ELT 务虚室现场信号 5 模式（AI/集体团队动力学/双轨视野）（offsite.html） | 高管间 | 二手 |
+| 专业务虚执行 vs 内部 DIY（战略意图倒推/会后问责KPI）（offsite.html） | 高管间 | 二手 |
+
+## 轮次 20260902·三十一轮（+8）
+
+| 卡 | 适用关系 | 一手/二手 |
+|---|---|---|
+| 高管团队冲突对话结构化（CEO不当Secret Therapist/把框/澄清事实/分派责任/5步法）（offsite.html） | 高管间 | 二手 |
+| 高管间冲突分级干预（CEO/董事会/HR/外部调解人角色·外部调解ROI $1800 vs 离职$25万）（offsite.html） | 高管间 | 二手 |
+| 从 Offsite 到 operating model（决策权 RACI/RAPID·一层决策日历栈·单向门/双向门）（offsite.html） | 高管间 | 二手 |
+| 领导力 Offsite 前摄心理安全（4阶段·pre-survey 显隐忧·会中建安全动作）（offsite.html） | 高管间 | 二手 |
+| 经理层难对话结构化（准备→倾听→共情精确→调解两leader·2分钟计时器）（offsite.html） | 上下级 | 二手 |
+| 经理主导 Planning Offsite 落地系统（30/60/90脉冲·周脉冲检三问·CEO出席不主持）（offsite.html） | 上下级 | 二手 |
+| 团队章程工作协议坊（5域·含违规处置条款·季度复访·活文档）（offsite.html） | 上下级 | 二手 |
+| 混合团队 Offsite 远程声音平权 playbook（remote advocate·轮次发言·会前共享文档·remote-first check）（offsite.html） | 上下级 | 二手 |
+
+## 轮次 20260828·三十轮（+5）
+
+| 卡 | 适用关系 | 一手/二手 |
+|---|---|---|
+| GitLab E-Group 季度4天 Offsite（CoS引导/CEO Shadow/分歧话题/50%实施时间）（offsite.html） | 高管间 | 一手 |
+| 敏感战略会议/高管务虚数据保密治理（分类/DRM/水印/加密/物理数字文档处置）（offsite.html） | 高管间 | 二手 |
+| 领导力/高管 Offsite ROI 度量（25 种指标：决策速度/稳定性/行为改变/下属感知/框架语言）（offsite.html） | 高管间 | 二手 |
+| 中层团队 Offsite 协作练习（pre-mortem/角色期望映射/Start-Stop-Continue/真实业务协作）（offsite.html） | 上下级 | 二手 |
+| 虚拟团队 Offsite（facilitator中立角色/buddy系统/≤3工具/领导建模脆弱性）（offsite.html） | 上下级 | 二手 |
+
+## 轮次 20260828·二十九轮（+5）
+
+| 卡 | 适用关系 | 一手/二手 |
+|---|---|---|
+| 中国法下活动组织者安全保障义务（民法典1198条）+ 自甘风险（1176条）（offsite.html） | 上下级 | 二手 |
+| 场地议价 7 杠杆省 15-30%（offsite.html） | 上下级 | 二手 |
+| 场地选型评分矩阵（7 要素 / 20 点 MICE / 15 问）（offsite.html） | 上下级 | 二手 |
+| Offsite 工具栈：单一中枢 + 预算/供应商 + 工作坊 + 差旅 + 预调研 + 报销（offsite.html） | 上下级 | 二手 |
+| 新 CEO 务虚·愿景共建 Retreat（百日计划 Phase2）（offsite.html） | 高管间 | 二手 |
+
+## 轮次 20260827·二十八轮（+14）
+
+| 卡 | 适用关系 | 一手/二手 |
+|---|---|---|
+| 2026 高管 Retreat 规划趋势与最佳实践（目标锁定/早参与/工康平衡/专家统筹/影响度量）（offsite.html） | ③高管间 | 二手 |
+| 资深领导者高管静修规划指南：目标先于场地 / 60-70% 决策辩论 / 24h 决策日志 / 离场前嵌 30-60-90 跟进（offsite.html） | ③高管间 | 二手 |
+| 高管 Retreat 完整制作框架：5 阶段（4-6月前置）/ 三主题上限 / 90分钟场地法则 / 外引导师 / 48h 摘要+30-60-90（offsite.html） | ③高管间 | 二手 |
+| 异地团建议程模板（1日/2日/领导层 offsite 样本）：上午战略(高认知)+午社交+下午建设/行动规划+晚可选餐（offsite.html） | ③高管间 | 二手 |
+| AI 提示词：企业战略务虚会设计（Pre-Work 包 / Day1 诊断 / Day2 方向 / Day3 执行 / 跟进 + RAPID/Devil's Advocate）（offsite.html） | ③高管间 | 二手 |
+| 战略规划务虚会设计：限 3-5 目标+界定不讨论项 / 控 10-12 人 / 自然私密场地 / 结构化议程+离会前 30-60 复查（offsite.html） | ③高管间 | 二手 |
+| 董事会务虚会设计：2-3 具体产出 / 会前一对一访谈 / 15min 演示上限 / 关系时间 / 外引导师 / 1.5 日样本议程（offsite.html） | ③高管间 | 二手 |
+| 杰出董事会务虚会 5 招：知目标 / 谁在房里(仅董事+CEO+引导) / 留对话空间 / 抓重点不超载 / 避 Routine 业务混入（offsite.html） | ③高管间 | 二手 |
+| 用一场董事会务虚会开启新年：Q1 最佳 / 清晰目标 / 提前发议程+分组破题 / 聘外引导师 / 年中复盘（offsite.html） | ③高管间 | 二手 |
+| 高管团队建设 Retreat 创意：明首要目标 / 连接→信任→挑战→战略→整合顺序 / 每活动 10min 复盘 / 非正式空隙 / 外引导师（offsite.html） | ③高管间 | 二手 |
+| 两日规划务虚会（全员对齐）：D1 战略对齐+跨职能信任 / D2 战略转行动(影响-努力矩阵+RACI) / 10-20 跨职能关键人（offsite.html） | ②上下级 | 二手 |
+| 企业 Offsite 团队表现活动清单：冒险运动 / 工作坊 / 创意艺术 / 烹饪 / 志愿 / 密室 / 健康 / 运动赛事（offsite.html） | ②上下级 | 二手 |
+| 企业个人发展 Retreat：超越技能培训（心智/自我觉察/价值观/领导身份）/ 心理安全优先 / 90 天整合 / 绑定业务指标（offsite.html） | ②上下级 | 二手 |
+| 企业团队 Retreat 灵感：目的地沉浸 / 冒险户外 / 有目的协作工坊 / 互动烹饪 / 健康正念（65% 员工重团队 bonding）（offsite.html） | ②上下级 | 二手 |
+
+## 轮次 20260825·二十七轮（+17，含早前预置 7 + 本轮 10）
+
+| 卡 | 适用关系 | 一手/二手 |
+|---|---|---|
+| 高管 Offsite 引导师遴选标准（中立/机密预访谈/30天跟进/5红线）（offsite.html） | 高管间 | 二手 |
+| 高管团队章程与规范校准（把心理安全写进机制）（offsite.html） | 高管间 | 二手 |
+| 董事会年度面对面 Offsite + 晚宴（信任建设）（offsite.html） | 高管间 | 二手 |
+| 高管 Offsite 预算与房型基准（人均/占比/时长甜区+4类）（offsite.html） | 高管间 | 二手 |
+| 领导力务虚 vs 高管务虚边界（经理/团队负责人/新晋leader）（offsite.html） | 上下级 | 二手 |
+| 新经理融入团队两日 Offsite（3年回溯愿景法·先听后说）（offsite.html） | 上下级 | 二手 |
+| 部门 Offsite：战略+实战活动平衡（头脑风暴/技能交换/目标对齐）（offsite.html） | 上下级 | 二手 |
+
+| 高管 Retreat 完整规划：同侪级引导师 + CEO 单独 briefing + 保密框架 + 自然场景选址 + Retreat Compact 契约（offsite.html） | 高管间 | 二手 |
+| 以「高管教练」方式引导 Retreat：敢问 CEO 没人敢问的 + 识别团队行为模式 + 把对话变行动（offsite.html） | 高管间 | 二手 |
+| 战略 Off-site 三角色（业务 leader/外部引导/领导团队）+ 事实手册 pre-read + 决策/对齐/停什么三产出（offsite.html） | 高管间 | 二手 |
+| 高管 Offsite 引导师选型：5 问（预工/最高权威主导/确切产出/测试人/承认局限）+ 亚洲层级沉默文化适配（offsite.html） | 高管间 | 二手 |
+| 领导力 Retreat 成效测量（即时/中期/长期三层）+ 6 大常见坑（议程超载/忽视非正式/忽略预工/不跟进/内部引导/一刀切）（offsite.html） | 高管间 | 二手 |
+| 通用 Retreat 议程模板（4-5晚/工作休闲平衡/样例日程/破冰可选/技能发展/20-30% 留白）（offsite.html） | 上下级 | 二手 |
+| 从愿景到执行：日节奏（上午深工/下午轻/晚上社交）+ 3 天样例 + 活动按目标四分类 + 餐饮住宿物流（offsite.html） | 上下级 | 二手 |
+| 20+ 活动按业务目标选型 + 现成 2 天议程（Align/Decide）+ 室内外对比 + 5 大常见错误 + Stop/Start/Continue + Commitment Ceremony（offsite.html） | 上下级 | 二手 |
+| 2025 公司 Offsite 趋势数据：目的驱动 / 更短更频（2.6 次/年）/ 健康体验 44% / 混合虚拟 91% / 远程收益 73% 留任（offsite.html） | 上下级 | 二手 |
+| 虚拟 Offsite 决策框架（何时虚拟 vs 现场）+ 8-12 周时间线 + $50-150/人成本 + 混合（季度虚拟+年度现场）（offsite.html） | 上下级 | 二手 |
+
+## 轮次 20260824（+8）
+
+| 卡 | 适用关系 | 一手/二手 |
+|---|---|---|
+| 高管 Offsite 跟进系统：30天重诺仪式 + 周/双周节奏（离场即排下次会议）（offsite.html） | 高管间 | 二手 |
+| Offsite 后30天·CEO 个人强化行为（自评1-10 + 一对一便签 + 以身作则）（offsite.html） | 高管间 | 二手 |
+| 战略 Off-site 成败在「对齐」而非「共识」+ 行动登记表/红黄绿月审（offsite.html） | 高管间 | 二手 |
+| 产出决策的 Exec Offsite：决策日志周周审 + 下届 offsite 开30分钟复盘（offsite.html） | 高管间 | 二手 |
+| Bain·让会议值回票价：运营/战略分离 + RAPID 决策语言 + 决策日志（offsite.html） | 高管间 | 二手 |
+| 高管 Offsite 引导技术库：世界咖啡/鱼缸/开放空间/杰弗逊晚餐等8式（offsite.html） | 高管间 | 二手 |
+| 决策权框架：把 RAPID/DCI 当操作系统 + 要害决策20条 + 一页决策记录（offsite.html） | 高管间 | 二手 |
+| 世界咖啡深度方法 + 四格式对比（vs开放空间/鱼缸/设计冲刺）+ 5大误区（offsite.html） | 高管间 | 二手 |
+
+## 轮次 20260823·二十四轮（+5）
+
+| 卡 | 适用关系 | 一手/二手 |
+|---|---|---|
+| 高管 Offsite 引导：按「决策顺序」而非「主题桶」构建议程（offsite.html） | 高管间 | 二手 |
+| 高管 Offsite 议程：先「对齐」不「汇报」+ 把讨论变承诺（offsite.html） | 高管间 | 二手 |
+| 团队 Offsite 100 招：会前预工系统 + 「不尬」信任建设（offsite.html） | 上下级 | 二手 |
+| Offsite ROI 测算：SMART 目标 + 有形/无形收益 + 成本三分（offsite.html） | 上下级 | 二手 |
+| 团队 Offsite 活动「黑名单」与「真连接」清单 + 时段设计模板（offsite.html） | 上下级 | 二手 |
+
+## 轮次 20260823（+10）
+
+| 卡 | 适用关系 | 一手/二手 |
+|---|---|---|
+| 10 套经评分验证的高管 Offsite 议程模板（2026）（offsite.html） | 高管间 | 二手 |
+| AI Vision Quest·芬兰拉普兰领导力静修（AI转型×荒野）（offsite.html） | 高管间 | 二手 |
+| Connect–Reflect–Align（C-R-A）转型静修框架（offsite.html） | 高管间 | 二手 |
+| 两天高管团队加速器·从「个人」到「操作系统」（offsite.html） | 高管间 | 二手 |
+| 战略静修引导师·两天产出决策 + 60天跟进协议（offsite.html） | 高管间 | 二手 |
+| 高管战略 Offsite 模板（Series B 实战案例）（offsite.html） | 高管间 | 二手 |
+| 团队建设议程模板库（含领导力团队建设专场）（offsite.html） | 上下级 | 二手 |
+| 团队静修规划·50%排程 50%留白（文化非怨气）（offsite.html） | 上下级 | 二手 |
+| 团队 Offsite 要「变」不要「演」（offsite.html） | 上下级 | 二手 |
+| 企业静修议程设计（目的+混合工作+收尾合成）（offsite.html） | 上下级 | 二手 |
+## 轮次 20260822（+6）
+
+| 关系档 | 新增卡 |
+|---|---|
+| 高管间 | 并购后领导层整合对齐敏捷：mini reset + skip-level 探测 drift |
+| 高管间 | 转型/交接期「过渡架构」Retreat：先命名失去，再谈未来 |
+| 高管间 | 跨部门中性场域扁平化破筒仓：Flattened Hierarchy + 中性心智 |
+| 高管间 | 全球分布式/跨国高管团队多时区对齐：Overlap Windows + 3-2-1 节奏 |
+| 上下级 | 合并/重组后团队整合 5 步（中层 manager）：心理安全先行 → 共享问责 |
+| 上下级 | 中层跨部门任务型对齐 Lab：依赖映射 + handoff 协议 + 共享问责 |
 
 ## 轮次 20260821（+11）
 
@@ -153,7 +426,7 @@ relation: ②上下级 / ③高管间
 | 上下级 | 公司级 Offsite 完全规划指南（包容无障碍） |
 | 上下级 | 分布式团队 Offsite 加速信任（餐叙+共做） |
 
-## ③ 领导↔领导（高管间 · exec） — 79 卡
+## ③ 领导↔领导（高管间 · exec） — 83 卡
 
 | # | 卡 | 一手/二手 | 价值定位 |
 |---|---|---|---|
@@ -231,7 +504,11 @@ relation: ②上下级 / ③高管间
 | 77 | 高管团队 Offsite 实操：外部引导师 + 坦诚对话 + 季度节奏跟进 | 二手 |  |
 | 78 | Leader Offsite ROI：人类连结 + 心理安全前置 + 整体观三目标 + 结尾 impact recap | 二手 |  |
 | 79 | CEO 操盘 Exec Team Offsite：Chief Architect & Moderator，不做屋里最聪明的人 | 二手 |  |
-## ② 领导↔员工（上下级 · supervisor） — 57 卡
+| 80 | 并购后领导层整合对齐敏捷：mini reset + skip-level 探测 drift | 二手 |  |
+| 81 | 转型/交接期「过渡架构」Retreat：先命名失去，再谈未来 | 二手 |  |
+| 82 | 跨部门中性场域扁平化破筒仓：Flattened Hierarchy + 中性心智 | 二手 |  |
+| 83 | 全球分布式/跨国高管团队多时区对齐：Overlap Windows + 3-2-1 节奏 | 二手 |  |
+## ② 领导↔员工（上下级 · supervisor） — 59 卡
 
 | # | 卡 | 一手/二手 | 价值定位 |
 |---|---|---|---|
@@ -289,6 +566,9 @@ relation: ②上下级 / ③高管间
 | 55 | 企业 Retreat 运营执行表：2 天时间表 + AV/餐饮/会后 48h 行动 plan | 二手 |  |
 | 56 | 团队 Offsite 设计：视觉路线图 + 协作项目替信任fall + 去层级混座 + 留白处理 | 二手 |  |
 | 57 | 团队 Retreat 引导：8 周时间线 + 预算拆解 + 15 活动按能量分级 | 二手 |  |
+
+| 58 | 合并/重组后团队整合 5 步（中层 manager）：心理安全先行 → 共享问责 | 二手 |  |
+| 59 | 中层跨部门任务型对齐 Lab：依赖映射 + handoff 协议 + 共享问责 | 二手 |  |
 
 ## 适用&备注
 - Offsite 在企业文化中承担「抽离日常、面向未来的深度对齐」职能：③ 用于高管团队战略务虚 / 闭门决策，强调结构、保密与问责；② 用于管理层与骨干以真实业务难题共创、建信任不越界。
